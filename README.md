@@ -28,8 +28,6 @@
 
 从github上下载到本地，在linux下的agenda-go-cli-master下运行go build然后在终端进入当前文件夹，使用./agenda-go-cli加上你所需要的操作命令便可以运行。（当然你需要完成Go语言的相关环境配置）
 
-
-
 ### 相关子命令: 
 - 登录
   - Command: `login -u=username -p=password`
