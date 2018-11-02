@@ -1,4 +1,4 @@
-# agenda-go-cli-test
+# agenda-go-cli
 
 此次作业使用Cobra实现了终端的Agenda系统，主要包括以下功能：
 
